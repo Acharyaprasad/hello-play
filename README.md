@@ -1,3 +1,3 @@
 # hello-play
 
-[![](images/K8sCICDpipeline.png)]
+![](images/K8sCICDpipeline.png)
